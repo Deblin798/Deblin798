@@ -13,21 +13,21 @@
 
 - 📫 How to reach me **deblin.chaudhuri@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/glitchdch" target="blank" style="text-decoration: none;">
-    <img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="glitchdch" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="glitchdch" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/deblin-chaudhuri" target="blank" style="text-decoration: none;">
-    <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deblin-chaudhuri" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deblin-chaudhuri" height="30" width="40" />
 </a>
 <a href="https://instagram.com/d_e_b_l_i_n" target="blank" style="text-decoration: none;">
-    <img align="left" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="d_e_b_l_i_n" height="30" width="30" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="d_e_b_l_i_n" height="30" width="30" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">    
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> 
     </a> 
@@ -65,6 +65,6 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
     </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deblin798&show_icons=true&locale=en&layout=compact&theme=transparent" alt="deblin798" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deblin798&show_icons=true&locale=en&layout=compact&theme=transparent" alt="deblin798" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deblin798&theme=transparent" alt="deblin798" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deblin798&theme=transparent" alt="deblin798" /></p>
